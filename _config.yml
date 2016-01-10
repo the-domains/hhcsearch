@@ -1,0 +1,28 @@
+name: HHCSearch
+favicon: null
+layout_spectrum: 0.5447328041773289
+typography_spectrum: 0.8224428710527718
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.47870099311694503
+  lightness: 0.49121539923362434
+  saturation: 0.030944421188905835
+  rhythmicContrast: 0.312922730576247
+purpose: []
